@@ -13,9 +13,3 @@ function writeOuput(op, prevRes, usrInpt, currRes){
     calcInpt.value = ''
     calcInpt.focus()
 }
-
-function reset(){
-    calcCalculationSpan.textContent = '';
-    calcResultSpan.textContent = ''
-    calcInpt.value = ''
-}

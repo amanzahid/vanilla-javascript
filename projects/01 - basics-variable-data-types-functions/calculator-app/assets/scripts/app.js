@@ -1,5 +1,5 @@
 let currRes = 0
-const calcLog = []
+let calcLog = []
 
 function writeToLog(op, prevRes, usrInpt, currRes){
     const logEntry = {
@@ -10,6 +10,14 @@ function writeToLog(op, prevRes, usrInpt, currRes){
     }
     calcLog.unshift(logEntry)
     console.log(calcLog)
+}
+
+function reset(){
+    calcCalculationSpan.textContent = '';
+    calcResultSpan.textContent = ''
+    calcInpt.value = ''
+    calcLog = []
+    currRes = 0
 }
 
 function addBtnHandler(){
