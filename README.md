@@ -11,15 +11,7 @@ Welcome to the Vanilla JavaScript Projects! This repository demonstrates my skil
 
 ## About
 
-This repository contains a collection of projects designed to demonstrate my proficiency in vanilla JavaScript. Each project includes a description of the concepts and techniques used, showcasing my abilities in:
-
-- DOM manipulation and traversal
-- Event handling
-- Fetching data using the Fetch API
-- Asynchronous programming
-- JavaScript classes and modules
-- State management and data binding
-- JavaScript patterns and best practices
+This repository contains a collection of projects designed to demonstrate my proficiency in vanilla JavaScript. Each project includes a description of the concepts and techniques used, showcasing my abilities.
 
 ## Projects
 
