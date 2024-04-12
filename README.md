@@ -38,7 +38,7 @@ To explore the projects in this repository, follow these steps:
 2. **Navigate to the project directory**:
 
     ```shell
-    cd your-repo-name
+    cd vanilla-javascript
     ```
 
 3. **Browse the projects**:
