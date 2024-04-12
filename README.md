@@ -11,13 +11,10 @@ Welcome to the Vanilla JavaScript Projects! This repository demonstrates my skil
 
 ## About
 
-<<<<<<< HEAD
-This repository contains a collection of projects designed to demonstrate my proficiency in vanilla JavaScript. Each project includes a description of the concepts and techniques used, showcasing my abilities.
-=======
 This repository contains a collection of projects designed to demonstrate my proficiency in vanilla JavaScript. Each project includes a description of the concepts and techniques used, showcasing my abilities in:
 
-- Basics: Variables Data Types and Basic Functions
->>>>>>> 2d60adf8c7a21007935c2fb4a593f255da3c3135
+- 01 - Basics: Variables Data Types and Basic Functions
+- 01 - Basics: Control Structures and Loops
 
 ## Projects
 
