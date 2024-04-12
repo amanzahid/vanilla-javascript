@@ -11,7 +11,13 @@ Welcome to the Vanilla JavaScript Projects! This repository demonstrates my skil
 
 ## About
 
+<<<<<<< HEAD
 This repository contains a collection of projects designed to demonstrate my proficiency in vanilla JavaScript. Each project includes a description of the concepts and techniques used, showcasing my abilities.
+=======
+This repository contains a collection of projects designed to demonstrate my proficiency in vanilla JavaScript. Each project includes a description of the concepts and techniques used, showcasing my abilities in:
+
+- Basics: Variables Data Types and Basic Functions
+>>>>>>> 2d60adf8c7a21007935c2fb4a593f255da3c3135
 
 ## Projects
 
@@ -24,13 +30,13 @@ To explore the projects in this repository, follow these steps:
 1. **Clone the repository**:
 
     ```shell
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/amanzahid/vanilla-javascript.git
     ```
 
 2. **Navigate to the project directory**:
 
     ```shell
-    cd your-repo-name
+    cd vanilla-javascript
     ```
 
 3. **Browse the projects**:
