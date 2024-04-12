@@ -32,7 +32,7 @@ To explore the projects in this repository, follow these steps:
 1. **Clone the repository**:
 
     ```shell
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/amanzahid/vanilla-javascript.git
     ```
 
 2. **Navigate to the project directory**:
